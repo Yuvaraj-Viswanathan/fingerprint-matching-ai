@@ -63,7 +63,7 @@ fingerprint-matching-ai/
 
 ## 🧠 Sample Flowchart
 
-![Flowchart](images/system_flowchart.jpg)
+![Flowchart](images/system_flowchart.png)
 
 ---
 
@@ -73,7 +73,7 @@ fingerprint-matching-ai/
 - Siamese network for similarity matching
 - Score-based output showing fingerprint pair match quality
 
-![Matching Example](images/matching_result.jpg)
+![Matching Example](images/matching_result.png)
 
 ---
 
