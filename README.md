@@ -48,7 +48,6 @@ It uses traditional **feature extraction** (minutiae, ridge flow) and modern **d
 fingerprint-matching-ai/
 ├── fingerprint_matching.py
 ├── Fingerprint_Matching_Report.pdf
-├── requirements.txt
 ├── dataset/
 │ └── sample1_real.png, sample2_altered.png
 ├── images/
