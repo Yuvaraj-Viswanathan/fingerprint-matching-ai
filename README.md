@@ -50,12 +50,10 @@ fingerprint-matching-ai/
 ├── Fingerprint_Matching_Report.pdf
 ├── requirements.txt
 ├── dataset/
-│ └── sample1.png, sample2.png
-├── models/
-│ └── cnn_model.h5
+│ └── sample1_real.png, sample2_altered.png
 ├── images/
-│ ├── system_flowchart.jpg
-│ └── matching_result.jpg
+│ ├── system_flowchart.png
+│ └── matching_result.png
 ```
 
 
